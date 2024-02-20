@@ -10,8 +10,8 @@
 
 <!-- Your Projects -->
 <p align="center">
-  <a href="https://github.com/imaliabdullah/Porfolio-Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imaliabdullah&repo=Portfolio-Projects&theme=merko" alt="Portfolio Projects" />
+  <a href="https://github.com/imaliabdullah/Data-Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imaliabdullah&repo=Data-Analysis&theme=merko" alt="Portfolio Projects" />
   </a>
   <a href="https://github.com/imaliabdullah/ibm-data-science">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=imaliabdullah&repo=ibm-data-science&theme=merko" alt="IBM Data Science" />
