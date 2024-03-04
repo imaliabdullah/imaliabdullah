@@ -10,7 +10,7 @@
 
 <!-- Your Projects -->
 <p align="center">
-  <a href="https://github.com/imaliabdullah/Portfolio-Projects/tree/main">
+  <a href="https://github.com/imaliabdullah/Portfolio-Project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=imaliabdullah&repo=Portfolio-Projects&theme=merko" alt="Portfolio Projects" />
   </a>
   <a href="https://github.com/imaliabdullah/ibm-data-science">
